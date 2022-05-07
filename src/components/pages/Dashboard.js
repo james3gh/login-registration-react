@@ -18,8 +18,8 @@ function Dashboard() {
           sx={{ backgroundColor: "gray", p: 5, color: "white" }}
         >
           <h1>Dashboard</h1>
-          <Typography variant="h5">Email: sonam@gmail.com</Typography>
-          <Typography variant="h6">Name: Sonam</Typography>
+          <Typography variant="h5">Email: abc@gmail.com</Typography>
+          <Typography variant="h6">Name: abc123</Typography>
           <Button
             variant="contained"
             color="warning"
